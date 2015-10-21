@@ -1,5 +1,5 @@
 ## My first git steps
-I coverd some commands including  
+I coverd some basic commands including  
 
 ```
 git status
